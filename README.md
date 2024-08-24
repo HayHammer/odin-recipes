@@ -1,2 +1,2 @@
-# odin-recipes
-Exercise
+This project is for exercises using GIT and HTML skills.
+
